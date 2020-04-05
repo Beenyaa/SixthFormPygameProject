@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "scoreboad-202622",
-  "private_key_id": "b9e88f69700441b5b2032528f023fd5149d668da",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzokyPpi/Nc/i2\nYlSKt1RJzHalbijuI4Cjo7BkSg7shRh4tM5A1L75YyO/4fNLN2dgL8vKjaMWvrtI\nZSU2l5L35LzZ4WLQscuXSgMV38eHOXLLf6xwtg9ll0kBWZBGpQlLWUClOBtmz89H\ni6P6Vb7thiC/ulRG+at9cG9JukYutQ6BUbIj8oOd8mJtGozbIyZpsV8q7pyCSPmr\nEZI9uh5t6+7h7Zxi3tcxe/iGmM66wSfEMXabBTnBkT08CNhjcBT5G3NGn05MEoLw\nDsdaN/BE/VKEA0H5gQ301RVdnGb/7FmnZUN1UdonI97uiXpQ6DluzEAMCElfnKqV\nu/k4HE7dAgMBAAECggEAK9WwmiNDKf8hU5xWJg2Lp4CZ+U+S9F28f/IrUqXR03y9\nFoOEi0R/H8tGB4aDQLkR5GJ1eAWtJRlBCW8JMDO3vP9X6FE8NFIWrOH2M8nKXmCx\n9x++PDjpM/DBc29gKiUOyhDLGiZBZYrTeZGFX8q5zyt6ZV76PuGhK/iaZ6Lpim7h\nf/sYo9uyKq5xuNOjbsT2WQrOGZy2kKZCytSl8IAM+78pqfe+d0+/u/bggExPE+hi\n5iogvdKMRnA9JtX4SB9ZgQhrzYroRS61pE4gEe4ggfh9kxQinQ5PNW265gOK0xyM\nTVUuyaYz2FVltExzGlMoFlc3WJg5FitA6RJxXQpoLwKBgQD4lE+37j2yh0iVV/6O\nKbjk0MfviwJfXy4wERbJioUISXMiKEBTjshNNBM1azV2d87/+OxwIXLsEyAfFQ9I\n+yFR/xb4kih0Ns96ga/EQM7XZBNlGWUjgDaYmZIN+2r+CifaPJzH9ArZODJPArRU\nX1ZypUN6HIY6hHneNrymGnsPSwKBgQC4/xg735CG//BZBAYJVNyCBwZoR1D2lAhI\npMDttP4LgjvFxJhxm1Bho7m0YqHriwc9jCK292bfnz4VnG2OgnIg0ILgj68EZ8v+\n9mQAHOvIjzIMafU+q3nBoOEjQbkFKKZCzHH1v70hkGhMGCOQA1FOxWIrCLPnCgAd\n5mxWOLG5dwKBgQDMcr82Wj5obZgnLN5y8qHdoFIxFLX41wHYCtYhIUrVTAPj3hM6\nJj9cMC50Sx8HtvaL1aIxf3FT9U8AAYQ21EXNeO7dtuiK3OG8splr4pm80dSZ3E8w\n6az9yaE02spe8t9gQWX5lyCtE+lczq6ejmM9m+tprbhAvOC3AXIbc8AvDQKBgEuR\nkMGscmpjFDgYh6q6KpVG71wbfbwr/jJGcrTnUTs8SNRhmXAW5L/t1IcWH1SLZzrC\nCtA4waIpd3/2dV5YdOxooH3A09p12APffDv7lGlJ7UTa555hB4yL/kubpkuwLjJt\nN0QOveB/D8u9tJE4ebc2tAImPO7sy91q6ehSom7DAoGBALxCh9qI/eHaGzKkW/IB\nX2JEJ62pOiBpLzNk7EBKNFva76prIVlvtxFNq0m/QKKagQC1T3nIbaOn3Qpn+GLd\nlAC+zBDmTvYan71Y1dTkRMwsZfl9dX1GwIXiXp+sk/T2rjX0MQqNInWnEhbTBjnV\nTZ4S8GMhGuVO9xyCqAkD+tro\n-----END PRIVATE KEY-----\n",
-  "client_email": "scoreboard@scoreboad-202622.iam.gserviceaccount.com",
-  "client_id": "102479105109542087440",
+  "project_id": "PROJECT ID",
+  "private_key_id": "PRIVATE KEY ID",
+  "private_key": "PRIVATE KEY",
+  "client_email": "CLIENT EMAIL",
+  "client_id": "CLIENT ID",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://accounts.google.com/o/oauth2/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scoreboard%40scoreboad-202622.iam.gserviceaccount.com"
+  "client_x509_cert_url": "CERTIFICATION URL"
 }
